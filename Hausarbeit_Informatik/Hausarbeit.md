@@ -4,7 +4,7 @@
 
 ## Die ersten Computer bis 1945
 
-Heute gilt Konrad Zuse gilt als Erfinder des Computers.
+Heute gilt Konrad Zuse als Erfinder des Computers.
  
 ## Die Entwicklung der Röhren-Computer
 

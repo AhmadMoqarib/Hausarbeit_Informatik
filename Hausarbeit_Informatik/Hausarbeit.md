@@ -5,7 +5,7 @@
 ## Die ersten Computer bis 1945
 
 Heute gilt Konrad Zuse gilt als Erfinder des Computers.
- 
+Sein Computer Z3 steht heute im Deutschen Museum in München.
 ## Die Entwicklung der Röhren-Computer
 
 ## Die Entwicklung der Transistoren
